@@ -23,7 +23,6 @@ public class ViewCalibraciones implements Observer{
     private JPanel panel;
     private JLabel textoRojo;
     private JPanel panelMediciones;
-    private JTable table1;
     private JTextField numero;
     private JTextField mediciones;
     private JTextField fecha;

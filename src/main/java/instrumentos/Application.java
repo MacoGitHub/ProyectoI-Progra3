@@ -49,7 +49,7 @@ public class Application {
         window.setSize(900,450);
         window.setResizable(true);
         window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        window.setIconImage((new ImageIcon(Application.class.getResource("../instrumentos/presentation/icon.png"))).getImage());
+        window.setIconImage((new ImageIcon(Application.class.getResource("../icons/icon.png"))).getImage());
         window.setTitle("SILAB: Sistema de Laboratorio Industrial");
         window.setVisible(true);
     }

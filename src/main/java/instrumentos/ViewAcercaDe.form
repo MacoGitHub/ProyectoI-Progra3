@@ -31,7 +31,7 @@
             </constraints>
             <properties>
               <font name="Courier New" size="20" style="1"/>
-              <text value="Malcom Chavez Obando"/>
+              <text value="Malcolm Chaves Obando"/>
             </properties>
           </component>
           <component id="b10c3" class="javax.swing.JLabel" binding="nombre2">
