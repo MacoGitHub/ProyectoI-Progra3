@@ -146,7 +146,7 @@ public class ControllerInstrumentos {
             header.setWidth(400);
             header.setHorizontalAlignment(HorizontalAlignment.CENTER);
             header.addCell(getCeldaP(new Paragraph("Sistema De Instrumentos").setFont(font).setBold().setUnderline().setFontSize(25), TextAlignment.CENTER, false));
-            header.addCell(getCeldaI(new Image(ImageDataFactory.create("Proyecto1-Programacion3\\src\\main\\resources\\instrumentos\\presentation\\icons\\Laboratorio.png")).setWidth(450).setHeight(280), HorizontalAlignment.CENTER, false));
+            header.addCell(getCeldaI(new Image(ImageDataFactory.create("../ProyectoI-Progra3/src/main/resources/icons/Laboratorio.png")).setWidth(450).setHeight(280), HorizontalAlignment.CENTER, false));
             header.addCell(getCeldaP(new Paragraph(" "),TextAlignment.CENTER, false));
             header.addCell(getCeldaP(new Paragraph(" "),TextAlignment.CENTER, false));
             header.addCell(getCeldaP(new Paragraph("Instrumentos").setFont(font).setBold().setFontSize(20), TextAlignment.CENTER, false));

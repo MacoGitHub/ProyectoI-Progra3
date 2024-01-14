@@ -12,5 +12,7 @@
     <orderEntry type="library" name="sun.xml.bind.jaxb.impl" level="project" />
     <orderEntry type="library" name="itextpdf.layout" level="project" />
     <orderEntry type="library" name="itextpdf.kernel" level="project" />
+    <orderEntry type="library" name="itextpdf.kernel1" level="project" />
+    <orderEntry type="library" name="itextpdf.layout1" level="project" />
   </component>
 </module>
